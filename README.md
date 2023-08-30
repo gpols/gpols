@@ -1,4 +1,4 @@
- <h1> Hi, I am Poli! :blossom: </h1> 
+ <h1> Hi, I am Poli:heavy_exclamation_mark: :blossom: </h1> 
  
 
 <p> Exploring the art of coding... :art: :computer:</p>
